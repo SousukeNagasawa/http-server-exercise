@@ -2,3 +2,18 @@ h1 {
   color: #f4005f;
   font-weight: bold;
 }
+.table {
+  margin: 24px 0;
+}
+.table table {
+  border-collapse: collapse;
+  text-align: center;
+}
+.table th, td {
+  padding: 4px 20px;
+  border: 1px solid #333;
+}
+.table th {
+  background-color: #f09800;
+  color: #FFF;
+}
