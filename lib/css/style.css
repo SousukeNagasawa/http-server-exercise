@@ -8,12 +8,14 @@ h1 {
 .table table {
   border-collapse: collapse;
   text-align: center;
+  border: double #555;
 }
-.table th, td {
+.table th,
+td {
   padding: 4px 20px;
-  border: 1px solid #333;
+  border: 1px solid #555;
 }
 .table th {
   background-color: #f09800;
-  color: #FFF;
+  color: #fff;
 }
